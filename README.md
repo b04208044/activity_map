@@ -60,3 +60,4 @@ cd frontend && npm install && npm start
 "# activity_map" 
 "# activity_map" 
 "# activity_map" 
+"# activity_map" 
